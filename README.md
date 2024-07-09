@@ -1,0 +1,2 @@
+# Detecting-Guava-Diseases-A-Comparative-Analysis-of-Machine-Learning-and-Deep-Learning-Techniques
+This project detects guava plant diseases using SVM, Vision Transformers, and Transfer Learning. By combining traditional and deep learning techniques, it achieves high accuracy in classifying various guava diseases, aiding farmers in effective crop management. Includes dataset, training scripts, and evaluation metrics.
